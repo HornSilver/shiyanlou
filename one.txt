@@ -1,6 +1,0 @@
-hello world
-aaaaaaaaaaa
-<<<<<<< HEAD
-demo2222
-=======
->>>>>>> 2c51f39 (add one.txt)
